@@ -4,6 +4,7 @@
     "version": "3.17.0-rc1",
     "description": "sampleAlpine Linux is a security-oriented, lightweight Linux distribution based on musl libc and busybox.",
     "main": "alpine_x86_64_3.17.0-rc1",
+    "git-tag": "main",
     "compatible": ["x86_64", "x86_x64"],
     "tags": ["alpine", "linux", "musl", "busybox"]
 }]
