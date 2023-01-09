@@ -1,1 +1,1 @@
-echo "alpine setup"
+RUN echo "alpine setup"
